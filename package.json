@@ -1,5 +1,5 @@
 {
-  "name": "@edosrecki/cache-manager-ioredis-yet",
+  "name": "@edosrecki/cache-manager-ioredis",
   "authors": [
     {
       "name": "Matthijs Dabroek",
@@ -21,7 +21,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/edosrecki/node-cache-manager-ioredis-yet.git"
+    "url": "https://github.com/edosrecki/node-cache-manager-ioredis.git"
   },
   "keywords": [
     "cache-manager",

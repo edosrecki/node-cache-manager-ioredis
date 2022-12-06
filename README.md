@@ -5,7 +5,7 @@ Redis cache store for [node-cache-manager](https://github.com/node-cache-manager
 ## Installation
 
 ```sh
-npm install cache-manager-ioredis-yet
+npm install @edosrecki/cache-manager-ioredis
 ```
 
 ## License
