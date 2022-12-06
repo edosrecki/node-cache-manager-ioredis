@@ -10,5 +10,5 @@
     "declaration": true,
     "incremental": true
   },
-  "exclude": ["dist"]
+  "include": ["src", "test"]
 }
