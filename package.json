@@ -1,5 +1,5 @@
 {
-  "name": "@edosrecki/cache-manager-ioredis",
+  "name": "cache-manager-ioredis-store",
   "authors": [
     {
       "name": "Matthijs Dabroek",
